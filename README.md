@@ -3,13 +3,13 @@
 ```
 ██████╗  ██████╗  ██████╗██╗   ██╗████████╗██████╗ ██╗   ██╗███████╗████████╗
 ██╔══██╗██╔═══██╗██╔════╝██║   ██║╚══██╔══╝██╔══██╗██║   ██║██╔════╝╚══██╔══╝
-██║  ██║██║   ██║██║     ██║   ██║   ██║   ██████╔╝██║   ██║███████╗   ██║   
-██║  ██║██║   ██║██║     ██║   ██║   ██║   ██╔══██╗██║   ██║╚════██║   ██║   
-██████╔╝╚██████╔╝╚██████╗╚██████╔╝   ██║   ██║  ██║╚██████╔╝███████║   ██║   
-╚═════╝  ╚═════╝  ╚═════╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝   
+██║  ██║██║   ██║██║     ██║   ██║   ██║   ██████╔╝██║   ██║███████╗   ██║
+██║  ██║██║   ██║██║     ██║   ██║   ██║   ██╔══██╗██║   ██║╚════██║   ██║
+██████╔╝╚██████╔╝╚██████╗╚██████╔╝   ██║   ██║  ██║╚██████╔╝███████║   ██║
+╚═════╝  ╚═════╝  ╚═════╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝
 ```
 
-### *Where Documents Meet Intelligence*
+### _Where Documents Meet Intelligence_
 
 [![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge&logo=checkmarx)](https://github.com/ritikatripathi11111)
 [![CRAG](https://img.shields.io/badge/Architecture-CRAG-blueviolet?style=for-the-badge&logo=openai)](https://github.com/ritikatripathi11111)
@@ -19,7 +19,7 @@
 [![Python](https://img.shields.io/badge/AI-Python-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
 
 > **DocuTrust** is not just another RAG app.  
-> It *thinks before it answers* — validating, grading, and correcting retrieval in real-time  
+> It _thinks before it answers_ — validating, grading, and correcting retrieval in real-time  
 > so every response you get is one you can actually trust.
 
 </div>
@@ -33,7 +33,7 @@ They hallucinate. They miss context. They give you confident-sounding wrong answ
 
 **DocuTrust is different.**
 
-It uses **Corrective RAG (CRAG)** — a self-aware pipeline that *grades its own retrieval*, rewrites bad queries, falls back to the web when needed, and validates every citation before showing you a single word.
+It uses **Corrective RAG (CRAG)** — a self-aware pipeline that _grades its own retrieval_, rewrites bad queries, falls back to the web when needed, and validates every citation before showing you a single word.
 
 ---
 
@@ -87,19 +87,19 @@ It uses **Corrective RAG (CRAG)** — a self-aware pipeline that *grades its own
 
 ## ✨ Feature Highlights
 
-| Feature | Description |
-|---|---|
-| 📄 **PDF Upload & Management** | Upload any policy or knowledge document |
-| 🏢 **Multi-Client Workspaces** | Isolated environments per organization |
-| 🧩 **Smart Document Chunking** | Intelligent splitting that preserves context |
-| 🔍 **Vector Semantic Retrieval** | Finds meaning, not just keywords |
-| 🎯 **Relevance Grading** | Self-evaluates chunk quality before generation |
-| 🤖 **AI Answer Generation** | Grounded, accurate, explainable responses |
-| ✅ **Citation Validation** | Every claim traced back to a source |
-| 📚 **Source Snippets** | Page numbers, sections — full traceability |
-| 🌐 **Web Fallback** | Automatically searches the web when docs fall short |
-| 📊 **Pipeline Visualization** | Watch the CRAG pipeline execute in real time |
-| 📋 **Copy & Download Answers** | Export results instantly |
+| Feature                          | Description                                         |
+| -------------------------------- | --------------------------------------------------- |
+| 📄 **PDF Upload & Management**   | Upload any policy or knowledge document             |
+| 🏢 **Multi-Client Workspaces**   | Isolated environments per organization              |
+| 🧩 **Smart Document Chunking**   | Intelligent splitting that preserves context        |
+| 🔍 **Vector Semantic Retrieval** | Finds meaning, not just keywords                    |
+| 🎯 **Relevance Grading**         | Self-evaluates chunk quality before generation      |
+| 🤖 **AI Answer Generation**      | Grounded, accurate, explainable responses           |
+| ✅ **Citation Validation**       | Every claim traced back to a source                 |
+| 📚 **Source Snippets**           | Page numbers, sections — full traceability          |
+| 🌐 **Web Fallback**              | Automatically searches the web when docs fall short |
+| 📊 **Pipeline Visualization**    | Watch the CRAG pipeline execute in real time        |
+| 📋 **Copy & Download Answers**   | Export results instantly                            |
 
 ---
 
@@ -109,18 +109,23 @@ It uses **Corrective RAG (CRAG)** — a self-aware pipeline that *grades its own
 <summary><b>📸 Click to expand screenshots</b></summary>
 
 ### 🏠 Dashboard
+
 ![Dashboard](screenshots/dashboard.png)
 
 ### 📤 Document Upload
+
 ![Upload](screenshots/upload.png)
 
-### 🔍 Retriever + Relevance Grader in Action
-![Pipeline](screenshots/pipeline.png)
+### 🔍 Remote-work Query
 
-### ✅ Validated Answer with Citations
-![Answer](screenshots/answer.png)
+![Remote-work Query](screenshots\remote-work-query.png)
+
+### ✅ Incident Query
+
+![Incident Query](screenshots\incident-query.png)
 
 ### 🔐 Password Policy Query Example
+
 ![Password](screenshots/password-query.png)
 
 </details>
@@ -267,7 +272,7 @@ Watch the CRAG pipeline grade, rewrite, and validate — live.
 
 **Ritika Tripathi**  
 B.Tech Computer Science Engineering (2023–2027)  
-*AI • Machine Learning • Full Stack Development*
+_AI • Machine Learning • Full Stack Development_
 
 [![GitHub](https://img.shields.io/badge/GitHub-ritikatripathi11111-181717?style=for-the-badge&logo=github)](https://github.com/ritikatripathi11111)
 
@@ -278,6 +283,6 @@ B.Tech Computer Science Engineering (2023–2027)
 <div align="center">
 
 **If DocuTrust saved you from a hallucinated answer today, give it a ⭐**  
-*Built with precision. Validated with trust.*
+_Built with precision. Validated with trust._
 
 </div>
