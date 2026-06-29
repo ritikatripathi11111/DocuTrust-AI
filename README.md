@@ -118,11 +118,11 @@ It uses **Corrective RAG (CRAG)** — a self-aware pipeline that _grades its own
 
 ### 🔍 Remote-work Query
 
-![Remote-work Query](screenshots\remote-work-query.png)
+![Remote-work Query](screenshots/remote-work-query.png)
 
 ### ✅ Incident Query
 
-![Incident Query](screenshots\incident-query.png)
+![Incident Query](screenshots/incident-query.png)
 
 ### 🔐 Password Policy Query Example
 
